@@ -1,7 +1,5 @@
 import { CommentProps } from "@/types";
 import { formatDate } from "@/utils/helper";
-import Markdown from "react-markdown";
-import rehypeHighlight from "rehype-highlight";
 import MarkdownView from "./MarkdownView";
 
 export default function CommentView ({ comment }: CommentProps) {
