@@ -13,6 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 PHP 8.1
 Node >= 18.18.0
+Composer 2.x
 ```
 
 2. Copy `.env.example` to `.env` and fill it with your Database credentials
@@ -20,6 +21,13 @@ Node >= 18.18.0
 ### Installing
 
 Follow these instructions to get a development env running
+
+- Install the packages
+
+```
+composer install
+npm install
+```
 
 - Execute the Migrations
 
