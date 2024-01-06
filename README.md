@@ -1,6 +1,6 @@
 # Feedback Tool
 
-This project is intded for interview round at IKONIC Solutions. 
+This project is intended for interview round at IKONIC Solutions. 
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ Visit the php server to access the application
 
 ### Comment Markdowns
 
-You can use following markdowns in comments
+You can use following markdowns in comments under feedbacks
 
 ```
 **bold**
@@ -80,6 +80,7 @@ This will output
 ## Acknowledgments
 
 * React Headless UI
+* React Markdown
 * Tailwind CSS
 * InertiaJS
 * Laravel Breeze
